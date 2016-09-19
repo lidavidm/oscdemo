@@ -1,3 +1,3 @@
 # Demo Project
 
-This is a readme. Look at it.
+This is a readme
